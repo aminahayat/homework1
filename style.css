@@ -85,13 +85,14 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     padding: 20px;
+}
     /* moved padding to the bottom */
+
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #fff;
-    /* removed 3'f from color */ 
-   
+    /* removed 3'f from color */  
 }
 
 .benefit-brand {
