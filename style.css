@@ -88,7 +88,8 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #fff;
+    /* removed 3'f from color */ 
    
 }
 
