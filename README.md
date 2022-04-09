@@ -12,7 +12,7 @@ Changes that I made;
 
 depoyled URL - https://aminahayat.github.io/homework1/ 
 
-<img src="../assets/images/01-html-css-git-homework-demo.png"/>
+<img src="https://github.com/aminahayat/homework1/blob/main/assets/images/01-html-css-git-homework-demo.png
 
 
 
